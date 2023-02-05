@@ -1,12 +1,10 @@
 name: CustomItemLoader
-author: alvin0319
+version: 1.0-BETA
 main: alvin0319\CustomItemLoader\CustomItemLoader
-version: 3.2.0
 api: 4.0.0
-
+authors: ["Redlive Studios", "alvin0319"]
 extensions:
   Core: ">=8.0"
-
 permissions:
   customitemloader.command.rsc:
     default: op
